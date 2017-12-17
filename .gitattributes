@@ -1,0 +1,4 @@
+*.png binary
+*.dat binary
+*.hdf5 binary
+*.ttf

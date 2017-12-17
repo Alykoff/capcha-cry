@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+.idea
+*.swp
+tmp.png
+extracted_letter_images
+test-images
+secrets.py
+__pycache__
+*.pyc
